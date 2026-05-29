@@ -1,0 +1,30 @@
+{
+  "name": "aiji",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AI Personal Tool with multiple providers",
+  "author": "Earl",
+  "main": "electron-main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "concurrently \"vite\" \"wait-on http://localhost:5173 && electron .\"",
+    "electron:build": "vite build && node electron-builder.js",
+    "package": "vite build && node electron-builder.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^8.2.2",
+    "electron": "^42.2.0",
+    "electron-builder": "^26.8.1",
+    "vite": "^8.0.14",
+    "wait-on": "^7.2.0"
+  }
+}
