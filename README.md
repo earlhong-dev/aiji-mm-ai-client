@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="build/icon.ico" alt="Aiji Logo" width="120" height="120">
+<img src="/icon.ico" alt="Aiji Logo" width="120" height="120">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
