@@ -11,7 +11,7 @@
 
 A **modern, open-source AI client** that lets you seamlessly switch between multiple AI providers—all in one elegant desktop application.
 
-[🚀 Quick Start](#-quick-start) • [📖 Features](#-features) • [🔧 Configuration](#-configuration) • [❓ FAQ](#-faq)
+[🚀 Quick Start](#-quick-start) • [📖 Features](#-features)
 
 </div>
 
