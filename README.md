@@ -19,9 +19,11 @@ A **modern, open-source AI client** that lets you seamlessly switch between mult
 
 ## 🎯 About
 
-**Aiji** is a desktop application developed by Earl Hong (Indie Dev) that unifies access to cutting-edge AI models from multiple providers. No vendor lock-in, no subscriptions needed for offline models—just pick your AI and start chatting.
+**Aiji** is a desktop application that unifies access to cutting-edge AI models from multiple providers. No vendor lock-in, no subscriptions needed for offline models—just pick your AI and start chatting.
 
 Whether you want cutting-edge cloud models or privacy-focused offline AI, Aiji has you covered.
+
+**Developed by Earl Hong**
 
 ---
 
