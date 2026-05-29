@@ -2,10 +2,12 @@
 
 <div align="center">
 
+<img src="build/icon.ico" alt="Aiji Logo" width="120" height="120">
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Built with](https://img.shields.io/badge/built%20with-Electron%20%2B%20React-black?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-9cf?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows-9cf?style=flat-square)
 
 A **modern, open-source AI client** that lets you seamlessly switch between multiple AI providers—all in one elegant desktop application.
 
